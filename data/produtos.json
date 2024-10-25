@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "nome": "Conjunto Rendado",
+      "preco": "R$ 59,90",
+      "imagem": "images/produto1.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Body Bordado",
+      "preco": "R$ 89,90",
+      "imagem": "images/produto2.jpg"
+    }
+  ]
+  

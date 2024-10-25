@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    .banner {
+      height: 200px;
+    }
+    
+    .grid-produtos {
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+  }
+  
